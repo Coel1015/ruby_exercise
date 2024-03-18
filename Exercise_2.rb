@@ -1,6 +1,6 @@
-temperature = [40, 27, 15]
+temperatures = [40, 27, 15]
 
-temperature.map do |temperature|
+temperatures.map do |temperature|
 
   if temperature >= 40
     puts " The temperature is high"

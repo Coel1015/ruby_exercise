@@ -9,5 +9,6 @@ exam_scores.each do |exam_scores|
     puts "Your grade is #{exam_scores} and is equivalent to C"
   else
     puts "Your grade is #{exam_scores} and is equivalent to D"
+
   end
 end
