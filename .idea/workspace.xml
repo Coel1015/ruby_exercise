@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf362bcb-8883-4c4e-8a10-6c8129b75458" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/Course.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/Example.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/Room.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/Student.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/Subject.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/Subject_student.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/Teacher.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/index.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/ENROLLMENT_OOP.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/ENROLLMENT_OOP.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +57,7 @@
       <updated>1710730502633</updated>
       <workItem from="1710730503638" duration="1949000" />
       <workItem from="1711078272173" duration="12688000" />
-      <workItem from="1711096144889" duration="2528000" />
+      <workItem from="1711096144889" duration="3172000" />
     </task>
     <servers />
   </component>
