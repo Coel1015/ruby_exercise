@@ -156,17 +156,16 @@ person = [{
 persons = [
   {subject: 01, student_name: "Liam Graham", teacher_name: "Emily Jackson", Day: "Monday" },
   {subject: 02, student_name: "Heidi Lim", teacher_name: "Jack White", Day: "Tuesday" },
-  {subject:  03, student_name: "Dan Lee", teacher_name: "William Gray", Day: "Sunday" },
+  {subject: 03, student_name: "Dan Lee", teacher_name: "William Gray", Day: "Sunday" },
   {subject: 04, student_name: "Paul George", teacher_name: "Matilda Smith", Day: "Saturday" },
   {subject: 05, student_name: "Liam Graham", teacher_name: "Finn Robersn", Day: "Monday" },
 ]
 
-user_input = get.chomp.to_i
+user_input = gets.chomp.to_i
 persons.each do |person|
-  user_input == Subject_student.new(person.subject_id, person.student_name , person.teacher_name , person.day)
-  information = user_input
-  puts information
-
+  if user_input == person[:subject]
+    p person
+  end
 end
 
 
