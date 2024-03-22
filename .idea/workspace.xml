@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf362bcb-8883-4c4e-8a10-6c8129b75458" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/march_18.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_2.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_2.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_3a.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_3a.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_5.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_5.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/Course.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/Example.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/Room.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/Student.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/Subject.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/Subject_student.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/Teacher.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/index.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/ENROLLMENT_OOP.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Ruby_oop/Enrollment OOP/ENROLLMENT_OOP.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,30 +24,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2dqL8XrkPnfv5YSn9H9u1OLBiX2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Ruby.march_18.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ruby_08/ruby_exercise/array",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ruby.structure.view.model.defaults.configured": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Ruby.Course.executor&quot;: &quot;Run&quot;,
+    &quot;Ruby.ENROLLMENT_OOP.executor&quot;: &quot;Run&quot;,
+    &quot;Ruby.Example.executor&quot;: &quot;Run&quot;,
+    &quot;Ruby.Room.executor&quot;: &quot;Run&quot;,
+    &quot;Ruby.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Ruby.Subject_student.executor&quot;: &quot;Run&quot;,
+    &quot;Ruby.index.executor&quot;: &quot;Run&quot;,
+    &quot;Ruby.march_18.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ruby_08/ruby_exercise/array&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ruby.structure.view.model.defaults.configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
   <component name="TaskManager">
@@ -53,6 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1710730502633</updated>
       <workItem from="1710730503638" duration="1949000" />
+      <workItem from="1711078272173" duration="12688000" />
+      <workItem from="1711096144889" duration="2528000" />
     </task>
     <servers />
   </component>
@@ -60,6 +74,13 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/array@Subject_student.rcov" NAME="Subject_student Coverage Results" MODIFIED="1711096970538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="array" />
+    <SUITE FILE_PATH="coverage/array@Room.rcov" NAME="Room Coverage Results" MODIFIED="1711086178546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="array" />
+    <SUITE FILE_PATH="coverage/array@Course.rcov" NAME="Course Coverage Results" MODIFIED="1711086212230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="array" />
+    <SUITE FILE_PATH="coverage/array@index.rcov" NAME="index Coverage Results" MODIFIED="1711097886653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="array" />
     <SUITE FILE_PATH="coverage/array@march_18.rcov" NAME="march_18 Coverage Results" MODIFIED="1710733570929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="array" />
+    <SUITE FILE_PATH="coverage/array@Student.rcov" NAME="Student Coverage Results" MODIFIED="1711088085044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="array" />
+    <SUITE FILE_PATH="coverage/array@Example.rcov" NAME="Example Coverage Results" MODIFIED="1711090817497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="array" />
+    <SUITE FILE_PATH="coverage/array@ENROLLMENT_OOP.rcov" NAME="ENROLLMENT_OOP Coverage Results" MODIFIED="1711078296339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="array" />
   </component>
 </project>
